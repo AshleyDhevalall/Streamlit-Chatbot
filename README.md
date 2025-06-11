@@ -34,7 +34,7 @@ pip install -r requirements.txt
 Step 3: Running the Chatbot
 Save the code as chatbot.py, then run:
 
-streamlit run chatbot.py
+streamlit run ollama_chatbot.py
 This will launch a local web app where you can chat with AI models.
 
 you can access the app using http://localhos:8051
